@@ -18,3 +18,5 @@
 
 
    [구글 바고가기] (http://google.com)
+   
+   [네이버바로가기2] (http://naver.com)
