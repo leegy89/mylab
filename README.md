@@ -15,3 +15,6 @@
 ```
 
    [네이버바로가기] (http://naver.com)
+
+
+   [구글 바고가기] (http://google.com)
